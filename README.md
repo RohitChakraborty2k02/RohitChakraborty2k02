@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rohit Chakraborty</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RohitChakraborty2k02.RohitChakraborty2k02" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rohit+Chakraborty;" />
+</h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/221/221575.gif">
@@ -25,3 +30,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitchakraborty2k02&show_icons=true&locale=en" alt="rohitchakraborty2k02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitchakraborty2k02&" alt="rohitchakraborty2k02" /></p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/RohitChakraborty2k02/RohitChakraborty2k02/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
